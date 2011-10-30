@@ -1,0 +1,19 @@
+story
+1¡¢homepage
+	a.theme --andy
+		1)research  9h
+			transfer para, 
+			css)(according to other website)
+		2)create a theme  4h
+		3)use page-front.tpl.php 6h
+	b.install modules --lee
+		1)cck 	6h		
+		2)views 6h
+		3)admin-menu 2h
+		4)translate chinese package 1h
+	c.configutation --lee
+		1)primary  links  4h
+		2)logo image  1h
+		3)search block  2h
+		
+/* 2. (register page) */
