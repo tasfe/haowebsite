@@ -1,0 +1,161 @@
+/* For front page */
+#allblocks {
+	margin-top: 30px;
+	margin-left: 60px;
+	margin-right:54px;
+	border:solid;
+	border-width:1px;
+	width:1100px;
+	float:left;
+}
+
+.block {
+	border:solid;
+	border-width:1px;
+}
+
+/* i0j0 logo */
+#block-block-1{
+	height:146px;
+	width:350px;
+	float:left;
+}
+
+/* i0j1 ads banner */
+#block-block-2{
+	height:146px;
+	width:370px;
+	float:left;
+}
+
+/* i0j2 search */
+#block-block-3{
+	height:146px;
+	width:370px;
+	float:left;
+}
+
+/* i1j0 Menu */
+#block-block-4{
+	height:122px;
+	width:1100px;
+	float:left;
+}
+
+/* i2j0 Theme Active */
+#block-block-5{
+	height:314px;
+	width:290px;
+	float:left;
+}
+
+/* i2j1 Business activities */
+#block-block-6{
+	height:314px;
+	width:410px;
+	float:left;
+}
+
+/* i2j2 Member module */
+#block-block-7{
+	height:314px;
+	width:390px;
+	float:left;
+}
+
+/* i3j0 宣传宗旨（我们以吃喝玩乐混在一起） */
+#block-block-8{
+	height:115px;
+	width:660px;
+	float:left;
+}
+
+/* i3j1 享乐卡：办理 */
+#block-block-9{
+	height:115px;
+	width:430px;
+	float:left;
+}
+
+/* i4j0 会员动态（评论、签到、注册等） */
+#block-block-10{
+	height:230px;
+	width:800px;
+	float:left;
+}
+
+/* i4j1 享乐推行  评论次数 */
+#block-block-11{
+	height:470px;
+	width:290px;
+	float:right;
+}
+
+/* i5j0 会员日志游记等分享 */
+#block-block-12{
+	height:240px;
+	width:800px;
+	float:left;
+}
+
+/* i6j0 最新折扣 */
+#block-block-13{
+	height:240px;
+	width:800px;
+	float:left;
+}
+
+/* i6j1 特殊折扣 */
+#block-block-14{
+	height:240px;
+	width:290px;
+	float:left;
+}
+
+/* i7j0 li 名称、折扣、评论次数 */
+#block-block-15{
+	height:400px;
+	width:800px;
+	float:left;
+}
+
+/* i7j1 li 商家排行 人气|积分 */
+#block-block-16{
+	height:400px;
+	width:290px;
+	float:left;
+}
+
+/* i8j0 li 友情链接 */
+#block-block-17{
+	height:100px;
+	width:1100px;
+	float:left;
+}
+
+/* i9j0 */
+#block-block-18{
+	height:200px;
+	width:800px;
+	float:left;
+}
+
+/* i9j1 意见建议 */
+#block-block-19{
+	height:200px;
+	width:290px;
+	float:left;
+}
+
+/* footer */
+#footer{
+	margin-top: 30px;
+	margin-left: 60px;
+	margin-right:54px;
+	border:solid;
+	border-width:1px;
+	width:1100px;
+	float:left;
+}
+
+
