@@ -1,0 +1,60 @@
+html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, span, blockquote, input, th, td, em {
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 970px;
+	height:1500px;
+	border:solid;
+}
+
+div{
+	border:none;
+}
+#header {
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    width: 960px;
+    z-index: 101;
+}
+#logo {
+	float:left;
+	width:200px;
+	height: 140px;
+}
+
+#block-block-1 {
+	float:left;
+	height: 140px;
+	width:500px;
+	
+}
+
+#block-search-0 {
+	float:left;
+	width:230px;
+	height: 140px;
+	
+}
+
+#block-menu-primary-links{
+	float:left;
+	width:960px;
+	height:50px;
+	overflow:hidden;
+	font-size:20px;
+	background:#339933;
+}
+
+#block-menu-primary-links li{
+	float:left;
+	list-style:none outside none;
+	padding-top: 12px;
+	width:160px;
+	height:50px;
+}
+

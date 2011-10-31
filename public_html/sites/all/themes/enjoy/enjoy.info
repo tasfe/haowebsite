@@ -1,0 +1,12 @@
+name = Enjoy
+description = Enjoy website theme.
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+; Information added by drupal.org packaging script on 2011-05-25
+version = "6.22"
+project = "drupal"
+datestamp = "1306357015"
+
+stylesheets[all][] = css/home.css
