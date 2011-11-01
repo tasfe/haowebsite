@@ -1,8 +1,8 @@
 story
 1¡¢homepage
 	a.theme --andy
-		1)research  9h
-			transfer para, 
+		1)research  9h					
+			transfer para, 				-->4h
 			css)(according to other website)
 		2)create a theme  4h
 		3)use page-front.tpl.php 6h
