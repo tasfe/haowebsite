@@ -1,0 +1,10 @@
+name = enjoy
+description = "custom module"
+package = enjoy
+core = 6.x
+
+; Information added by drupal.org packaging script on 2011-11-2
+version = "6.22"
+core = "6.x"
+project = "enjoy"
+datestamp = "1308238014"

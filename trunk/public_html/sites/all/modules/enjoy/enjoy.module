@@ -1,0 +1,28 @@
+<?php
+// $Id: enjoy.module
+/**
+ * @file
+ */
+ /**
+ * Implementation of hook_block().
+ */
+/*function enjoy_block($op = 'list', $delta = 0) {
+     switch ($op) {
+      case 'list':
+        $blocks[0]['info'] = 'product bolck';
+	  return $blocks;
+	  case 'view':
+	    switch ($delta) {
+        case 0:
+		  $block['subject'] = t('Product');
+          $block['content'] = 'aaaaaaaaa';
+          break;
+		}
+		return $block;
+	 }
+}
+
+function _get_product_content() {
+	$output = 'aaaaaaaa';
+	return $output;
+}*/
