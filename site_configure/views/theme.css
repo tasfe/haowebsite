@@ -1,0 +1,37 @@
+/* begin this is lee 's css */
+.view-content .views-view-mytheme{
+	text-align: center;
+	border: 1px solid black;
+	width:418px;
+	float:left;
+}
+
+.view-content .views-view-mytheme h4{
+	font-family: "Times New Roman";
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 28px;
+}
+
+.view-content .views-view-mytheme h4 a:link,
+.view-content .views-view-mytheme h4 a:visited{
+	color:#FF3300;
+}
+
+.view-content .views-view-mytheme ul{
+	text-align:left;
+	margin-left:20px;
+}
+
+.view-content .views-view-mytheme li{
+	background:none;
+	line-height:24px;
+	width:190px;
+	float:left;
+	list-style: none outside none;
+	margin:0;
+	padding:0;
+}
+
+
+/* end */
