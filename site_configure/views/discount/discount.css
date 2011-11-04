@@ -1,0 +1,39 @@
+/* discount */
+.view-content .views-view-discount{
+	border: 1px solid black;
+	width:800px;
+	float:left;
+}
+
+.view-content .views-view-discount li{
+	background:none;
+	width:220px;
+	float:left;
+	list-style: none outside none;
+	margin:10px 10px 10px 10px;
+}
+
+.view-content .views-view-discount img{
+	width:220px;
+	height:220px;
+}
+
+.view-content .views-view-discount 
+.views-field-field-old-price-value{
+    background: none repeat scroll 0 0 #F3F3F3;
+}
+
+.view-content .views-view-discount .con-but{
+	background: url("s_bg_1012.png") no-repeat scroll 0 0 transparent;
+	background-position: -25px -300px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    height: 40px;
+    letter-spacing: -2px;
+    line-height: 40px;
+    text-indent: 15px;
+    text-shadow: 1px 1px 1px #4F4F4F;
+    width: 220px;
+}
