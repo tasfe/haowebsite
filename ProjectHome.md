@@ -1,0 +1,1 @@
+The site structure is the most the same like "tuangou" sites, the style like "taobao".
